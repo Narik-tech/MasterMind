@@ -1,0 +1,15 @@
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\bin\Debug\net6.0\MasterMindKiran.exe
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\bin\Debug\net6.0\MasterMindKiran.deps.json
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\bin\Debug\net6.0\MasterMindKiran.runtimeconfig.json
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\bin\Debug\net6.0\MasterMindKiran.dll
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\bin\Debug\net6.0\MasterMindKiran.pdb
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.csproj.AssemblyReference.cache
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.AssemblyInfoInputs.cache
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.AssemblyInfo.cs
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.csproj.CoreCompileInputs.cache
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.dll
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\refint\MasterMindKiran.dll
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.pdb
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\MasterMindKiran.genruntimeconfig.cache
+C:\Users\Kiran\source\repos\MasterMindKiran\MasterMindKiran\obj\Debug\net6.0\ref\MasterMindKiran.dll
